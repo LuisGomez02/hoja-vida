@@ -1,6 +1,9 @@
 # Curriculum vitae de Luis Gómez  
 
+Teléfono: 1234-5689
+
 [Correo electrónico](luis.gomezmantilla@ucr.ac.cr)   
+
 Estudiante de Bachillerato de Georafía en la Universidad de Costa Rica (UCR)
 
 ## Áreas de interés
