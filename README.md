@@ -1,6 +1,6 @@
 # Curriculum vitae de Luis Gómez  
 
-Teléfono: 1234-5689
+Teléfono: XXXX-XXXX
 
 [Correo electrónico](luis.gomezmantilla@ucr.ac.cr)   
 
